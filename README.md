@@ -110,11 +110,7 @@ To deploy the application:
 
 ---
 
-## 📸 Screenshots
 
-_Add screenshots of Home, Add Member, View Members, and Member Details pages here._
-
----
 
 ## 🙋‍♀️ Authors
 
